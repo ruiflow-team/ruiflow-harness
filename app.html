@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RUIFLOW Studio - AI动漫视频生成</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a0f; color: #fff; min-height: 100vh; }
+        
+        .header { padding: 20px 40px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); }
+        .logo { font-size: 1.5rem; font-weight: 700; background: linear-gradient(90deg, #6366f1, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        
+        .main { max-width: 900px; margin: 60px auto; padding: 0 24px; }
+        
+        .step { margin-bottom: 48px; }
+        .step-label { font-size: 0.85rem; color: #6366f1; font-weight: 600; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 1px; }
+        .step-title { font-size: 1.5rem; font-weight: 600; margin-bottom: 20px; }
+        
+        .upload-zone { border: 2px dashed rgba(99, 102, 241, 0.4); border-radius: 16px; padding: 48px; text-align: center; cursor: pointer; transition: all 0.3s; }
+        .upload-zone:hover { border-color: #6366f1; background: rgba(99, 102, 241, 0.05); }
+        .upload-zone.active { border-color: #6366f1; background: rgba(99, 102, 241, 0.1); }
+        .upload-icon { font-size: 3rem; margin-bottom: 16px; }
+        .upload-text { color: #888; font-size: 0.95rem; }
+        .upload-text strong { color: #6366f1; }
+        .file-name { margin-top: 12px; color: #6366f1; font-weight: 500; display: none; }
+        
+        .style-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+        .style-card { background: rgba(255,255,255,0.03); border: 2px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 24px 16px; text-align: center; cursor: pointer; transition: all 0.3s; }
+        .style-card:hover { border-color: rgba(99, 102, 241, 0.3); transform: translateY(-2px); }
+        .style-card.selected { border-color: #6366f1; background: rgba(99, 102, 241, 0.1); }
+        .style-emoji { font-size: 2.5rem; margin-bottom: 8px; }
+        .style-name { font-weight: 600; font-size: 0.95rem; }
+        .style-desc { color: #888; font-size: 0.8rem; margin-top: 4px; }
+        
+        .generate-btn { width: 100%; padding: 18px; border: none; border-radius: 12px; font-size: 1.1rem; font-weight: 600; cursor: pointer; transition: all 0.3s; background: linear-gradient(90deg, #6366f1, #8b5cf6); color: #fff; }
+        .generate-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(99, 102, 241, 0.3); }
+        .generate-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; box-shadow: none; }
+        
+        .result-area { margin-top: 48px; text-align: center; display: none; }
+        .result-video { width: 100%; max-width: 512px; border-radius: 12px; background: #111; }
+        .result-actions { margin-top: 16px; display: flex; gap: 12px; justify-content: center; }
+        .btn-download { padding: 12px 24px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.15); background: rgba(255,255,255,0.05); color: #fff; cursor: pointer; font-weight: 500; transition: all 0.2s; }
+        .btn-download:hover { background: rgba(255,255,255,0.1); }
+        
+        .progress-bar { width: 100%; height: 4px; background: rgba(255,255,255,0.08); border-radius: 2px; margin-top: 24px; display: none; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #6366f1, #8b5cf6); border-radius: 2px; width: 0%; transition: width 0.5s; }
+        .progress-text { text-align: center; color: #888; margin-top: 8px; font-size: 0.85rem; display: none; }
+        
+        .pose-preview { max-width: 256px; border-radius: 8px; margin-top: 16px; display: none; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">RUIFLOW Studio</div>
+        <div style="color:#6366f1; font-size:0.85rem; font-weight:500;">v1.5 · Harness × 多智能体系统 已上线 🎉</div>
+    </div>
+    
+    <div class="main">
+        <!-- 系统升级公告 -->
+        <div style="background:linear-gradient(135deg, rgba(99,102,241,0.1), rgba(139,92,246,0.1)); border:1px solid rgba(99,102,241,0.3); border-radius:12px; padding:20px; margin-bottom:32px;">
+            <div style="font-weight:600; font-size:1.1rem; margin-bottom:8px; color:#6366f1;">🚀 系统重大升级：Harness多智能体管控系统已上线</div>
+            <div style="color:#aaa; font-size:0.9rem; line-height:1.6;">
+                <p>✅ 423个AI专家角色 · 22个专业部门 · 全流程无人值守</p>
+                <p>✅ 支持多Agent跨部门协作：产品→设计→开发→测试 全自动工作流</p>
+                <p>✅ 异常自动重试 · 断点续跑 · 状态全链路追踪</p>
+                <p style="margin-top:8px; color:#888; font-size:0.8rem;">2026.06.05 08:10 已完成全量上线</p>
+            </div>
+        </div>
+        
+        <!-- Step 1: 上传3D文件 -->
+        <div class="step">
+            <div class="step-label">Step 1</div>
+            <div class="step-title">上传3D骨骼动作文件</div>
+            <div class="upload-zone" id="uploadZone" onclick="document.getElementById('fileInput').click()">
+                <div class="upload-icon">🦴</div>
+                <div class="upload-text">点击或拖拽上传 <strong>GLB / GLTF</strong> 格式3D文件</div>
+                <div class="file-name" id="fileName"></div>
+                <input type="file" id="fileInput" accept=".glb,.gltf" style="display:none" onchange="handleFile(this)">
+            </div>
+            <img class="pose-preview" id="posePreview">
+        </div>
+        
+        <!-- Step 2: 选风格 -->
+        <div class="step">
+            <div class="step-label">Step 2</div>
+            <div class="step-title">选择生成风格</div>
+            <div class="style-grid">
+                <div class="style-card" onclick="selectStyle(this, 'wuxia')" data-style="wuxia">
+                    <div class="style-emoji">⚔️</div>
+                    <div class="style-name">武侠国风</div>
+                    <div class="style-desc">传统武侠水墨风格</div>
+                </div>
+                <div class="style-card" onclick="selectStyle(this, 'anime')" data-style="anime">
+                    <div class="style-emoji">🌸</div>
+                    <div class="style-name">日系动漫</div>
+                    <div class="style-desc">经典日漫赛璐珞风</div>
+                </div>
+                <div class="style-card" onclick="selectStyle(this, 'us')" data-style="us">
+                    <div class="style-emoji">🦸</div>
+                    <div class="style-name">美系英雄</div>
+                    <div class="style-desc">美漫硬朗写实风格</div>
+                </div>
+                <div class="style-card" onclick="selectStyle(this, 'scifi')" data-style="scifi">
+                    <div class="style-emoji">🚀</div>
+                    <div class="style-name">科幻未来</div>
+                    <div class="style-desc">赛博朋克科幻风格</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Step 3: 生成 -->
+        <div class="step">
+            <div class="step-label">Step 3</div>
+            <div class="step-title">生成视频</div>
+            <button class="generate-btn" id="generateBtn" onclick="generate()" disabled>
+                点击生成成品视频
+            </button>
+            <div class="progress-bar" id="progressBar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <div class="progress-text" id="progressText"></div>
+        </div>
+        
+        <!-- 结果 -->
+        <div class="result-area" id="resultArea">
+            <h3 style="margin-bottom:16px;">生成完成</h3>
+            <video class="result-video" id="resultVideo" controls></video>
+            <div class="result-actions">
+                <button class="btn-download" onclick="downloadResult()">⬇️ 下载MP4</button>
+                <button class="btn-download" onclick="resetAll()">🔄 重新生成</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let selectedFile = null;
+        let selectedStyle = null;
+        
+        function handleFile(input) {
+            if (input.files.length > 0) {
+                selectedFile = input.files[0];
+                document.getElementById('fileName').textContent = '已选择: ' + selectedFile.name;
+                document.getElementById('fileName').style.display = 'block';
+                document.getElementById('uploadZone').classList.add('active');
+                checkReady();
+            }
+        }
+        
+        function selectStyle(el, style) {
+            document.querySelectorAll('.style-card').forEach(c => c.classList.remove('selected'));
+            el.classList.add('selected');
+            selectedStyle = style;
+            checkReady();
+        }
+        
+        function checkReady() {
+            document.getElementById('generateBtn').disabled = !(selectedFile && selectedStyle);
+        }
+        
+        function generate() {
+            const btn = document.getElementById('generateBtn');
+            btn.disabled = true;
+            btn.textContent = '生成中...';
+            document.getElementById('progressBar').style.display = 'block';
+            document.getElementById('progressText').style.display = 'block';
+            
+            // 模拟生成进度
+            let progress = 0;
+            const interval = setInterval(() => {
+                progress += Math.random() * 15;
+                if (progress >= 100) {
+                    progress = 100;
+                    clearInterval(interval);
+                    setTimeout(() => showResult(), 500);
+                }
+                document.getElementById('progressFill').style.width = progress + '%';
+                document.getElementById('progressText').textContent = '正在生成... ' + Math.round(progress) + '%';
+            }, 800);
+        }
+        
+        function showResult() {
+            document.getElementById('resultArea').style.display = 'block';
+            document.getElementById('progressBar').style.display = 'none';
+            document.getElementById('progressText').style.display = 'none';
+            document.getElementById('generateBtn').textContent = '生成完成 ✓';
+        }
+        
+        function downloadResult() {
+            alert('下载功能将在后端对接完成后启用');
+        }
+        
+        function resetAll() {
+            selectedFile = null;
+            selectedStyle = null;
+            document.getElementById('fileName').style.display = 'none';
+            document.getElementById('uploadZone').classList.remove('active');
+            document.querySelectorAll('.style-card').forEach(c => c.classList.remove('selected'));
+            document.getElementById('generateBtn').disabled = true;
+            document.getElementById('generateBtn').textContent = '点击生成成品视频';
+            document.getElementById('resultArea').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

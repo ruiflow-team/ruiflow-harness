@@ -1,0 +1,22 @@
+# 临时文件
+*.log
+*.pyc
+__pycache__/
+.DS_Store
+*.lock
+server.pid
+
+# 大文件与输出
+output/
+agent_outputs/
+*.mp4
+*.mov
+*.avi
+*.png
+*.jpg
+*.jpeg
+
+# 敏感文件
+.env
+.secrets
+keys/
