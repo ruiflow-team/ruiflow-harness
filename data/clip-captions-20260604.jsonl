@@ -1,0 +1,1012 @@
+{"path": "2d_beta/beta_character_00.png", "tags": ["sword", "wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu, holding sword"}
+{"path": "2d_beta/beta_character_01.png", "tags": ["wuxia", "anime"], "description": "Chinese wuxia style, anime aesthetic"}
+{"path": "2d_beta/beta_character_02.png", "tags": ["mountain", "wuxia", "anime", "ancient china"], "description": "Chinese wuxia style, misty mountain scenery, anime aesthetic"}
+{"path": "2d_beta/beta_character_03.png", "tags": ["mist", "ancient china", "night"], "description": "misty mountain scenery"}
+{"path": "2d_beta_batch_20/beta_00_少年剑客_竹林.png", "tags": ["sword", "anime"], "description": "holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_01_少年剑客_山巅.png", "tags": ["wuxia", "sword", "anime"], "description": "Chinese wuxia style, holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_02_少年剑客_剑阁.png", "tags": ["anime", "sword"], "description": "holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_03_少年剑客_月夜.png", "tags": ["sword", "anime"], "description": "holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_04_红衣女侠_竹林.png", "tags": ["sword", "wuxia"], "description": "Chinese wuxia style, holding sword"}
+{"path": "2d_beta_batch_20/beta_05_红衣女侠_山巅.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "2d_beta_batch_20/beta_06_红衣女侠_剑阁.png", "tags": ["sword", "wuxia", "anime", "ancient china"], "description": "Chinese wuxia style, holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_07_红衣女侠_月夜.png", "tags": ["sword", "anime"], "description": "holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_08_白衣书生_竹林.png", "tags": ["sword", "anime", "hanfu"], "description": "person wearing traditional hanfu, holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_09_白衣书生_山巅.png", "tags": ["mountain"], "description": "misty mountain scenery"}
+{"path": "2d_beta_batch_20/beta_10_白衣书生_剑阁.png", "tags": ["hanfu", "sword"], "description": "person wearing traditional hanfu, holding sword"}
+{"path": "2d_beta_batch_20/beta_11_白衣书生_月夜.png", "tags": ["hanfu", "sword", "anime"], "description": "person wearing traditional hanfu, holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_12_黑衣刺客_竹林.png", "tags": ["bamboo", "wuxia", "hanfu", "ancient china"], "description": "Chinese wuxia style, person wearing traditional hanfu, in bamboo forest"}
+{"path": "2d_beta_batch_20/beta_13_黑衣刺客_山巅.png", "tags": ["wuxia", "anime", "wind"], "description": "Chinese wuxia style, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_14_黑衣刺客_剑阁.png", "tags": ["sword", "wuxia"], "description": "Chinese wuxia style, holding sword"}
+{"path": "2d_beta_batch_20/beta_15_黑衣刺客_月夜.png", "tags": ["anime", "sword", "wuxia"], "description": "Chinese wuxia style, holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_16_老掌门_竹林.png", "tags": ["ancient china", "hanfu"], "description": "person wearing traditional hanfu"}
+{"path": "2d_beta_batch_20/beta_17_老掌门_山巅.png", "tags": ["mountain", "wuxia"], "description": "Chinese wuxia style, misty mountain scenery"}
+{"path": "2d_beta_batch_20/beta_18_老掌门_剑阁.png", "tags": ["ancient china", "sword", "anime"], "description": "holding sword, anime aesthetic"}
+{"path": "2d_beta_batch_20/beta_19_老掌门_月夜.png", "tags": ["wuxia", "ancient china", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "2d_new_generated/wuxia_new_00.png", "tags": ["sword", "anime", "martial arts"], "description": "holding sword, anime aesthetic"}
+{"path": "2d_new_generated/wuxia_new_01.png", "tags": ["wuxia", "anime"], "description": "Chinese wuxia style, anime aesthetic"}
+{"path": "2d_new_generated/wuxia_new_02.png", "tags": ["sword", "wuxia", "anime"], "description": "Chinese wuxia style, holding sword, anime aesthetic"}
+{"path": "2d_new_generated/wuxia_new_03.png", "tags": ["sword", "anime", "wuxia"], "description": "Chinese wuxia style, holding sword, anime aesthetic"}
+{"path": "agency-agents-zh/assets/sponsor-compshare.jpeg", "tags": ["wuxia", "mist", "scene", "day"], "description": "Chinese wuxia style, misty mountain scenery"}
+{"path": "benchmark/full-review/keyframes/saas-infer-20260529-064013-ef11a63794_key.jpg", "tags": ["martial arts", "wuxia", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "benchmark/full-review/keyframes/saas-infer-20260529-064045-ef11a63794_key.jpg", "tags": ["martial arts", "wuxia", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "benchmark/full-review/keyframes/saas-infer-20260529-071651-1c991837d3-67092_key.jpg", "tags": ["martial arts", "wuxia", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "benchmark/full-review/keyframes/saas-infer-20260529-071713-1c991837d3-67138_key.jpg", "tags": ["martial arts", "wuxia", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "benchmark/full-review/keyframes/v06-swordsman-ready-1080_key.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v04_9grid.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "benchmark/full-review/v05_9grid.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v05_cover.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-keyframe-v2.png", "tags": ["wuxia", "martial arts"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-keyframe-v3.png", "tags": ["wuxia", "martial arts", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "benchmark/full-review/v07-toon-keyframe-v4.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-keyframe-v5.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-keyframe-v6.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-keyframe-v7.png", "tags": ["wuxia", "martial arts"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-keyframe-v8.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-keyframe.png", "tags": ["wuxia", "ancient china"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-strip-v2.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-strip-v3.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-strip-v4.jpg", "tags": ["wuxia", "martial arts", "ancient china"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-strip-v5.jpg", "tags": ["wuxia", "ancient china"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-strip-v6.jpg", "tags": ["wuxia", "ancient china"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-strip-v7.jpg", "tags": ["wuxia", "martial arts"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-strip-v8.jpg", "tags": ["wuxia", "martial arts"], "description": "Chinese wuxia style"}
+{"path": "benchmark/full-review/v07-toon-strip.jpg", "tags": ["wuxia", "ancient china"], "description": "Chinese wuxia style"}
+{"path": "benchmark/legacy-review/v061_action.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/legacy-review/v061_hero.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/legacy-review/v06_cover.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "benchmark/legacy-review/v07_keyframe.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/legacy-review/v07_strip.jpg", "tags": ["wuxia", "ancient china"], "description": "Chinese wuxia style"}
+{"path": "benchmark/toon-3d/frames/BV1Ah4y1274c_key.jpg", "tags": ["realistic", "ancient china"], "description": "Chinese traditional style artwork, realistic style"}
+{"path": "benchmark/toon-3d/frames/BV1nz4y1L7ef_key.jpg", "tags": ["anime"], "description": "Chinese traditional style artwork, anime aesthetic"}
+{"path": "benchmark/toon-3d/frames/BV1og411g7HY_key.jpg", "tags": ["2d", "anime", "dance"], "description": "Chinese traditional style artwork, anime aesthetic"}
+{"path": "benchmark/toon-3d/frames/BV1pt411Z7XJ_key.jpg", "tags": ["anime"], "description": "Chinese traditional style artwork, anime aesthetic"}
+{"path": "benchmark/v22-liblib/bonus_01.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/bonus_02.png", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "benchmark/v22-liblib/bonus_03.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setA-swordsman_01.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setA-swordsman_02.png", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "benchmark/v22-liblib/setA-swordsman_03.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setA-swordsman_04.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setA-swordsman_05.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setA-swordsman_06.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setA-swordsman_07.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setA-swordsman_08.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setA-swordsman_09.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setA-swordsman_10.png", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "benchmark/v22-liblib/setB-heroine_01.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setB-heroine_02.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setB-heroine_03.png", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "benchmark/v22-liblib/setB-heroine_04.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setB-heroine_05.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setB-heroine_06.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setB-heroine_07.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setB-heroine_08.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setB-heroine_09.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setB-heroine_10.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setC-scene_01.png", "tags": ["ancient china"], "description": "Chinese traditional style artwork"}
+{"path": "benchmark/v22-liblib/setC-scene_02.png", "tags": ["wuxia", "martial arts"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setC-scene_03.png", "tags": ["ancient china"], "description": "Chinese traditional style artwork"}
+{"path": "benchmark/v22-liblib/setC-scene_04.png", "tags": ["3d", "anime", "ancient china"], "description": "Chinese traditional style artwork, anime aesthetic"}
+{"path": "benchmark/v22-liblib/setC-scene_05.png", "tags": ["sword"], "description": "holding sword"}
+{"path": "benchmark/v22-liblib/setC-scene_06.png", "tags": ["moon", "wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setC-scene_07.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-liblib/setC-scene_08.png", "tags": ["3d", "ancient china", "temple"], "description": "Chinese traditional style artwork, 3d rendered"}
+{"path": "benchmark/v22-liblib/setC-scene_09.png", "tags": ["wuxia", "warrior", "mountain"], "description": "Chinese wuxia style, misty mountain scenery"}
+{"path": "benchmark/v22-liblib/setC-scene_10.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-review-sheets/A_swordsman_sheet.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "benchmark/v22-review-sheets/B_heroine_sheet.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "benchmark/v22-review-sheets/C_scene_sheet.jpg", "tags": ["wuxia", "ancient china"], "description": "Chinese wuxia style"}
+{"path": "benchmark/v22-review-sheets/bonus_sheet.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "data/generated_frame_00900.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00901.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00902.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00903.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00904.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00905.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00906.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00907.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00908.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00909.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00910.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00911.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00912.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00913.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00914.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00915.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00916.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00917.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00918.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00919.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00920.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00921.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00922.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00923.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00924.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00925.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00926.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00927.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00928.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00929.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00930.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00931.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00932.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00933.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00934.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00935.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00936.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00937.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00938.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00939.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00940.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00941.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00942.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00943.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00944.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00945.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00946.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00947.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00948.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00949.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00950.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00951.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00952.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00953.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00954.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00955.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00956.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00957.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00958.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00959.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00960.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00961.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00962.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00963.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00964.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00965.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00966.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00967.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00968.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00969.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00970.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00971.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00972.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00973.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00974.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00975.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00976.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00977.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00978.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00979.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00980.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00981.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00982.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00983.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00984.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00985.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00986.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00987.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00988.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00989.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00990.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00991.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00992.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00993.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00994.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00995.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00996.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00997.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00998.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "data/generated_frame_00999.png", "tags": ["wuxia", "guofeng", "chinese style"], "description": "Generated Chinese wuxia style frame caption"}
+{"path": "deliverables/2026-05-31/visual-snapshot/v061_hero.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "deliverables/2026-05-31/visual-snapshot/v06_vs_v061.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "deliverables/2026-05-31/visual-snapshot/v07_toon_strip.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_001.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_002.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_003.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_004.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_005.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_006.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_007.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_008.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_009.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_010.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_011.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_012.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_013.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "frame_extract/frame_014.png", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/high2d-animagine-v1/animagine_v1_00.png", "tags": ["wuxia", "forest"], "description": "Chinese wuxia style"}
+{"path": "golden/high2d-animagine-v1/animagine_v1_01.png", "tags": ["wuxia", "sword", "warrior"], "description": "Chinese wuxia style, holding sword"}
+{"path": "golden/high2d-animagine-v1/animagine_v1_02.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/high2d-animagine-v1/animagine_v1_03.png", "tags": ["ancient china", "wuxia", "sunset", "wind", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-animagine-v1/animagine_v1_04.png", "tags": ["hanfu", "ancient china", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-animagine-v1/animagine_v1_05.png", "tags": ["sword", "wuxia"], "description": "Chinese wuxia style, holding sword"}
+{"path": "golden/high2d-animagine-v1/animagine_v1_06.png", "tags": ["ancient china", "hanfu"], "description": "person wearing traditional hanfu"}
+{"path": "golden/high2d-animagine-v1/animagine_v1_07.png", "tags": ["ancient china", "hanfu"], "description": "person wearing traditional hanfu"}
+{"path": "golden/high2d-animagine-v1/animagine_v1_contact_sheet.jpg", "tags": ["ancient china", "hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v1/high2d_autodl_v1_contact_sheet.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/high2d-autodl-v1/sdxl_anime_clean_00.png", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v1/sdxl_anime_clean_01.png", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v1/sdxl_anime_clean_02.png", "tags": ["wuxia", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "golden/high2d-autodl-v1/sdxl_anime_clean_03.png", "tags": ["wuxia", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "golden/high2d-autodl-v2/high2d_autodl_v2_contact_sheet.jpg", "tags": ["wuxia", "ancient china"], "description": "Chinese wuxia style"}
+{"path": "golden/high2d-autodl-v2/sdxl_anime_v2_00.png", "tags": ["wuxia", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "golden/high2d-autodl-v2/sdxl_anime_v2_01.png", "tags": ["wuxia", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "golden/high2d-autodl-v2/sdxl_anime_v2_02.png", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v2/sdxl_anime_v2_03.png", "tags": ["wuxia", "sword"], "description": "Chinese wuxia style, holding sword"}
+{"path": "golden/high2d-autodl-v2/sdxl_anime_v2_04.png", "tags": ["sword"], "description": "holding sword"}
+{"path": "golden/high2d-autodl-v2/sdxl_anime_v2_05.png", "tags": ["wuxia", "sword", "ancient china"], "description": "Chinese wuxia style, holding sword"}
+{"path": "golden/high2d-autodl-v3/high2d_autodl_v3_contact_sheet.jpg", "tags": ["hanfu", "wuxia", "ancient china"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v3/sdxl_anime_v3_00.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/high2d-autodl-v3/sdxl_anime_v3_01.png", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v3/sdxl_anime_v3_02.png", "tags": ["wuxia", "hanfu", "ancient china"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v3/sdxl_anime_v3_03.png", "tags": ["wuxia", "sword", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu, holding sword"}
+{"path": "golden/high2d-autodl-v3/sdxl_anime_v3_04.png", "tags": ["wuxia", "hanfu", "ancient china"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v3/sdxl_anime_v3_05.png", "tags": ["hanfu", "wuxia", "ancient china"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v3/sdxl_anime_v3_06.png", "tags": ["hanfu", "wuxia", "ancient china"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-autodl-v3/sdxl_anime_v3_07.png", "tags": ["hanfu", "wuxia", "ancient china"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-guofeng-lora-v2/high2d_guofeng_lora_v2_contact_sheet.jpg", "tags": ["wuxia", "ancient china", "sword", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu, holding sword"}
+{"path": "golden/high2d-guofeng-lora-v2/sdxl_guofeng_lora_00.png", "tags": ["hanfu", "wuxia", "ancient china"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-guofeng-lora-v2/sdxl_guofeng_lora_01.png", "tags": ["wuxia", "sword", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu, holding sword"}
+{"path": "golden/high2d-guofeng-lora-v2/sdxl_guofeng_lora_02.png", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/high2d-guofeng-lora-v2/sdxl_guofeng_lora_03.png", "tags": ["sword", "wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu, holding sword"}
+{"path": "golden/preview-contact-sheet.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0000.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0001.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0002.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0003.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0004.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0005.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0006.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0007.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0008.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0009.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0010.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0011.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0012.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0013.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0014.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0015.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0016.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0017.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0018.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0019.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0020.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0021.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0022.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0023.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0024.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0025.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0026.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0027.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0028.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0029.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0030.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0031.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0032.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0033.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0034.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0035.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0036.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0037.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0038.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0039.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0040.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0041.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0042.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0043.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0044.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0045.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0046.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0047.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0048.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0049.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0050.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0051.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0052.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0053.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0054.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0055.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0056.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0057.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0058.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0059.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0060.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0061.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0062.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0063.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0064.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0065.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0066.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0067.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0068.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0069.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0070.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0071.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0072.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0073.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0074.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0075.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0076.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0077.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0078.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0079.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0080.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0081.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0082.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0083.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0084.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0085.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0086.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0087.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0088.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0089.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0090.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0091.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0092.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0093.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0094.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0095.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0096.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0097.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0098.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0099.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0100.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0101.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0102.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0103.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0104.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0105.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0106.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0107.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0108.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0109.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0110.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0111.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0112.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0113.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0114.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0115.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0116.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0117.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0118.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0119.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0120.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0121.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0122.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0123.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0124.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0125.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0126.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0127.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0128.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0129.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0130.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0131.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0132.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0133.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0134.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0135.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0136.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0137.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0138.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0139.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0140.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0141.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0142.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0143.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0144.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0145.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0146.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0147.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0148.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0149.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0150.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0151.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0152.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0153.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0154.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0155.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0156.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0157.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0158.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0159.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0160.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0161.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0162.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0163.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0164.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0165.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0166.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0167.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0168.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0169.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0170.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0171.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0172.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0173.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0174.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0175.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0176.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0177.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0178.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0179.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0180.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0181.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0182.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0183.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0184.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0185.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0186.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0187.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0188.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0189.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0190.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0191.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0192.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0193.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0194.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0195.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0196.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0197.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0198.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0199.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0200.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0201.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0202.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0203.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0204.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0205.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0206.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0207.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0208.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0209.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0210.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0211.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0212.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0213.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0214.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0215.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0216.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0217.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0218.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0219.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0220.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0221.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0222.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0223.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0224.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0225.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/frames/0226.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0227.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0228.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0229.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0230.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0231.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0232.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0233.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0234.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0235.jpg", "tags": ["wuxia", "hanfu", "martial arts"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0236.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0237.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0238.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0239.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0240.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0241.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0242.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0243.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0244.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0245.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0246.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0247.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0248.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0249.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0250.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0251.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0252.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0253.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0254.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0255.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0256.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0257.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0258.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0259.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0260.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0261.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0262.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0263.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0264.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0265.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0266.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0267.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0268.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0269.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0270.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0271.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0272.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0273.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0274.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0275.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0276.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0277.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0278.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0279.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0280.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0281.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0282.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0283.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0284.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0285.jpg", "tags": ["wuxia", "hanfu", "martial arts"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0286.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/frames/0287.jpg", "tags": ["hanfu", "wuxia"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_00_kf0_clean.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_00_kf0_labeled.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_01_kf1_clean.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_01_kf1_labeled.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_02_kf2_clean.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_02_kf2_labeled.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_03_kf3_clean.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_03_kf3_labeled.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_04_kf4_clean.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_04_kf4_labeled.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_05_cover_clean.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_05_cover_labeled.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-2-upgrade-pack/v06_2_storyboard_6frames.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-original/v06-cover-1080.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/v06-expanded-contact-sheet.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/v06_cover_final_1080.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/v06_kf_0_1080.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/v06_kf_1_1080.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/v06_kf_2_1080.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/v06_kf_3_1080.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/v06_kf_4_1080.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/000.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/001.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/002.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/003.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/004.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/005.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/006.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/007.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/008.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/009.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/010.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/011.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/012.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/013.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/014.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/015.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/016.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/017.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/018.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/019.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/020.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/021.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/022.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/023.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/024.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/025.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/026.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/027.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/028.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/029.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/030.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/031.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/032.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/033.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/034.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/035.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/036.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/037.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/038.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/039.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/040.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/041.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/042.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/043.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/044.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/045.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/046.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/047.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/048.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/049.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/050.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/051.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/052.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/053.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/054.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/055.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/056.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/057.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/058.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/059.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/060.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/061.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/062.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/063.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/064.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/065.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/066.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/067.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/068.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/069.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/070.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_cover_final/071.jpg", "tags": ["chinese style", "guofeng"], "description": "Chinese chinese style/guofeng style image"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/000.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/001.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/002.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/003.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/004.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/005.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/006.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/007.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/008.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/009.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/010.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/011.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/012.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/013.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/014.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/015.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/016.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/017.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/018.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/019.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/020.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/021.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/022.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/023.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/024.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/025.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/026.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/027.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/028.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/029.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/030.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/031.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/032.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/033.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/034.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/035.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/036.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/037.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/038.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/039.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/040.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/041.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/042.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/043.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/044.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/045.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/046.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/047.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/048.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/049.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/050.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/051.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/052.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/053.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/054.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/055.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/056.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/057.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/058.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/059.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/060.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/061.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/062.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/063.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/064.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/065.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/066.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/067.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/068.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/069.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/070.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_0/071.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/000.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/001.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/002.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/003.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/004.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/005.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/006.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/007.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/008.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/009.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/010.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/011.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/012.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/013.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/014.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/015.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/016.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/017.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/018.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/019.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/020.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/021.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/022.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/023.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/024.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/025.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/026.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/027.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/028.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/029.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/030.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/031.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/032.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/033.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/034.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/035.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/036.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/037.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/038.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/039.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/040.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/041.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/042.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/043.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/044.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/045.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/046.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/047.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/048.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/049.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/050.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/051.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/052.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/053.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/054.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/055.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/056.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/057.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/058.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/059.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/060.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/061.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/062.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/063.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/064.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/065.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/066.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/067.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/068.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/069.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/070.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_1/071.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/000.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/001.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/002.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/003.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/004.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/005.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/006.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/007.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/008.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/009.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/010.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/011.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/012.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/013.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/014.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/015.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/016.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/017.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/018.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/019.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/020.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/021.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/022.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/023.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/024.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/025.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/026.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/027.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/028.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/029.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/030.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/031.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/032.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/033.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/034.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/035.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/036.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/037.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/038.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/039.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/040.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/041.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/042.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/043.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/044.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/045.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/046.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/047.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/048.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/049.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/050.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/051.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/052.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/053.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/054.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/055.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/056.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/057.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/058.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/059.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/060.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/061.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/062.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/063.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/064.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/065.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/066.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/067.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/068.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/069.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/070.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_2/071.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/000.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/001.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/002.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/003.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/004.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/005.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/006.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/007.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/008.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/009.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/010.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/011.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/012.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/013.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/014.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/015.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/016.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/017.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/018.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/019.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/020.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/021.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/022.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/023.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/024.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/025.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/026.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/027.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/028.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/029.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/030.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/031.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/032.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/033.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/034.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/035.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/036.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/037.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/038.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/039.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/040.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/041.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/042.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/043.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/044.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/045.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/046.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/047.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/048.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/049.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/050.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/051.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/052.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/053.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/054.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/055.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/056.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/057.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/058.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/059.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/060.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/061.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/062.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/063.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/064.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/065.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/066.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/067.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/068.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/069.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/070.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_3/071.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/000.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/001.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/002.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/003.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/004.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/005.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/006.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/007.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/008.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/009.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/010.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/011.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/012.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/013.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/014.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/015.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/016.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/017.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/018.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/019.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/020.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/021.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/022.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/023.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/024.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/025.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/026.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/027.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/028.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/029.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/030.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/031.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/032.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/033.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/034.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/035.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/036.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/037.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/038.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/039.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/040.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/041.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/042.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/043.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/044.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/045.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/046.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/047.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/048.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/049.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/050.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/051.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/052.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/053.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/054.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/055.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/056.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/057.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/058.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/059.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/060.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/061.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/062.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/063.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/064.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/065.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/066.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/067.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/068.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/069.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/070.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made-expanded/video_frames/v06_kf_4/071.jpg", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v06-self-made/v06-cover-1080.jpg", "tags": ["wuxia", "hanfu"], "description": "Chinese wuxia style, person wearing traditional hanfu"}
+{"path": "golden/v22-liblib-fallback/setA-swordsman_01.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v22-liblib-fallback/setA-swordsman_06.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "golden/v22-liblib-fallback/setB-heroine_01.png", "tags": ["wuxia"], "description": "Chinese wuxia style"}
+{"path": "output/animatediff-verify-20260604/pose_single_standing.png", "tags": ["standing", "animation", "skeleton"], "description": "character pose reference, animation test frame, skeleton pose reference"}
+{"path": "output/animatediff-verify-20260604/pose_waving_sequence/pose_waving_000.png", "tags": ["standing", "animation", "skeleton"], "description": "character pose reference, animation test frame, skeleton pose reference"}
+{"path": "output/animatediff-verify-20260604/pose_waving_sequence/pose_waving_001.png", "tags": ["standing", "animation", "skeleton"], "description": "character pose reference, animation test frame, skeleton pose reference"}
+{"path": "output/animatediff-verify-20260604/pose_waving_sequence/pose_waving_002.png", "tags": ["standing", "animation", "skeleton"], "description": "character pose reference, animation test frame, skeleton pose reference"}
+{"path": "output/animatediff-verify-20260604/pose_waving_sequence/pose_waving_003.png", "tags": ["standing", "animation", "skeleton", "3d"], "description": "character pose reference, animation test frame, skeleton pose reference, 3d rendered"}
+{"path": "output/animatediff-verify-20260604/pose_waving_sequence/pose_waving_004.png", "tags": ["standing", "animation", "skeleton"], "description": "character pose reference, animation test frame, skeleton pose reference"}
+{"path": "output/animatediff-verify-20260604/pose_waving_sequence/pose_waving_005.png", "tags": ["standing", "animation", "skeleton"], "description": "character pose reference, animation test frame, skeleton pose reference"}
+{"path": "output/animatediff-verify-20260604/pose_waving_sequence/pose_waving_006.png", "tags": ["standing", "animation", "skeleton"], "description": "character pose reference, animation test frame, skeleton pose reference"}
+{"path": "output/animatediff-verify-20260604/pose_waving_sequence/pose_waving_007.png", "tags": ["standing", "animation", "skeleton", "3d"], "description": "character pose reference, animation test frame, skeleton pose reference, 3d rendered"}
+{"path": "output/animatediff-verify-20260604/simple_test_result.png", "tags": ["heroine", "test", "pose", "standing", "openpose"], "description": "character pose reference, skeleton pose reference"}
+{"path": "output/animatediff-verify-20260604/single-frame-test.png", "tags": ["standing"], "description": "character pose reference"}
+{"path": "output/poses/default_standing_openpose.png", "tags": ["animation", "3d", "standing"], "description": "character pose reference, animation test frame, 3d rendered"}
+{"path": "python-sdk/examples/mcpserver/mcp.png", "tags": ["wuxia", "sword", "character"], "description": "Chinese wuxia style, holding sword"}
+{"path": "wuxia_3d_fixed.png", "tags": ["3d"], "description": "Chinese traditional style artwork, 3d rendered"}
+{"path": "wuxia_3d_test.png", "tags": ["3d"], "description": "Chinese traditional style artwork, 3d rendered"}
